@@ -1,0 +1,18 @@
+{
+  "name": "catsplash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "request": "^2.78.0",
+    "xml-parser": "^1.2.1",
+    "xml2json": "^0.10.0"
+  }
+}
